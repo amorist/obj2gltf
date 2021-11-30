@@ -1,25 +1,25 @@
 {
-  "name": "obj2gltf",
-  "version": "3.1.4",
+  "name": "obj2gltf-converter",
+  "version": "0.1.1",
   "description": "Convert OBJ model format to glTF",
   "license": "Apache-2.0",
   "contributors": [
     {
       "name": "Cesium GS, Inc. and Contributors",
-      "url": "https://github.com/CesiumGS/obj2gltf/graphs/contributors"
+      "url": "https://github.com/amorist/obj2gltf/graphs/contributors"
     }
   ],
   "keywords": [
     "obj",
     "gltf"
   ],
-  "homepage": "https://github.com/CesiumGS/obj2gltf",
+  "homepage": "https://github.com/amorist/obj2gltf",
   "repository": {
     "type": "git",
-    "url": "git@github.com:CesiumGS/obj2gltf.git"
+    "url": "git@github.com:amorist/obj2gltf.git"
   },
   "bugs": {
-    "url": "https://github.com/CesiumGS/obj2gltf/issues"
+    "url": "https://github.com/amorist/obj2gltf/issues"
   },
   "main": "index.js",
   "engines": {
