@@ -685,10 +685,10 @@ catharsis@^0.9.0:
   dependencies:
     lodash "^4.17.15"
 
-cesium@^1.86.1:
-  version "1.87.1"
-  resolved "https://registry.yarnpkg.com/cesium/-/cesium-1.87.1.tgz#c122f8b92b2a1c01ad7feddb159531695b3a67a4"
-  integrity sha512-j0ywezLnCRJ3BWTnD7N2W2jfGlaLa5UklXpxVOLTZUx1NJsvkekpztHuRf4eMVCew/rKcXRzIOAvS7FHo6JHSw==
+cesium@1.88:
+  version "1.88.0"
+  resolved "https://registry.yarnpkg.com/cesium/-/cesium-1.88.0.tgz#d2780ffca93968766feedb676fccb58493ce97d4"
+  integrity sha512-Tu/U5noy+jTejtaPav5G9SAXss8I9MmR7Ug46ny2NnKQsmW7slO0MUlL3lxo0po7VSmI/E0dDU7Jo+WiRbooRQ==
 
 chalk@^2.0.0:
   version "2.4.2"
